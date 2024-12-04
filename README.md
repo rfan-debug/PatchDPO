@@ -42,7 +42,7 @@ Note that CLIP-T evaluates the text alignment, and DINO, CLIP-I evaluate the ima
 The comparison results are demonstrated in Table 1 & 2 (the results of other methods are from their paper):
 
 <div style="display: flex; justify-content: center;">
-   <img src="./assets/dreambench_performance.png" alt="DreamBench Performance" width="500px">
+   <img src="./assets/dreambench_performance.png" alt="DreamBench Performance" width="45%">
 </div>
 
 Detailedly, two evaluation settings are adopted in Table 1 & 2, respectively.
@@ -174,7 +174,7 @@ Note that `/PATH/TO/model.bin` is the path of the trained model to be evaluated.
 
 ### Evaluation
 
-We concisely merge the original evaluation setting and the Kosmos-G setting into a single script for DreamBench evaluation, making it convenient for future researchers to use.
+We concisely merge the original evaluation setting and the Kosmos-G setting into a single script (`evaluate_dreambooth.py`) for DreamBench evaluation, making it convenient for future researchers to use.
 
 Two steps for running this script:
 
@@ -199,7 +199,7 @@ Two steps for running this script:
 
 * Next, run the following scripts for evaluation in two settings:
 
-    * Original setting.
+    * **Original setting:**
 
     ```
     python evaluate_dreambooth.py \
@@ -208,7 +208,7 @@ Two steps for running this script:
         --is_kosmosg False
     ```
 
-    * Kosmos-G setting.
+    * **Kosmos-G setting:**
 
     ```
     python evaluate_dreambooth.py \
