@@ -1,0 +1,20 @@
+{
+    "caption": "there is a bowl of blueberries on a bed with a white sheet",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "berry _ bowl",
+            "logit": 0.82,
+            "box": [
+                170.768310546875,
+                164.04867553710938,
+                715.447265625,
+                601.1083984375
+            ]
+        }
+    ]
+}

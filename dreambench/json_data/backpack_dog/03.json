@@ -1,0 +1,20 @@
+{
+    "caption": "there is a dog backpack hanging on a fence in the yard",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "backpack _ dog",
+            "logit": 0.71,
+            "box": [
+                293.2236328125,
+                166.24099731445312,
+                643.3587646484375,
+                593.9608154296875
+            ]
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "caption": "there is a dog shaped backpack sitting in the grass",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "backpack _ dog",
+            "logit": 0.73,
+            "box": [
+                130.0355987548828,
+                140.08311462402344,
+                567.2188110351562,
+                644.3116455078125
+            ]
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "caption": "there is a white dog walking on the beach near the water",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "dog3",
+            "logit": 0.94,
+            "box": [
+                323.2056884765625,
+                304.3539733886719,
+                480.726318359375,
+                647.1268310546875
+            ]
+        }
+    ]
+}

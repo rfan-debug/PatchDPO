@@ -1,0 +1,20 @@
+{
+    "caption": "there is a stuffed toy that is sitting on a desk",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "monster _ toy",
+            "logit": 0.75,
+            "box": [
+                206.613037109375,
+                61.29193115234375,
+                727.5350952148438,
+                684.8629760742188
+            ]
+        }
+    ]
+}

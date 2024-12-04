@@ -1,0 +1,20 @@
+{
+    "caption": "a close up of a pair of shoes on a concrete surface",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "shiny _ sneaker",
+            "logit": 0.84,
+            "box": [
+                184.1527862548828,
+                204.42245483398438,
+                613.8168334960938,
+                584.4495849609375
+            ]
+        }
+    ]
+}

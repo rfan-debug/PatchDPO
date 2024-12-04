@@ -1,0 +1,20 @@
+{
+    "caption": "there is a brown dog laying in the woods with his tongue out",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "dog7",
+            "logit": 0.92,
+            "box": [
+                46.582275390625,
+                128.57272338867188,
+                723.6206665039062,
+                798.0162353515625
+            ]
+        }
+    ]
+}

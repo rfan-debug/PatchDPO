@@ -1,0 +1,20 @@
+{
+    "caption": "there is a dog that is sticking its tongue out",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "dog",
+            "logit": 0.95,
+            "box": [
+                29.38006591796875,
+                172.12509155273438,
+                752.5982666015625,
+                798.5301513671875
+            ]
+        }
+    ]
+}

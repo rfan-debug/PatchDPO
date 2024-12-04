@@ -1,0 +1,20 @@
+{
+    "caption": "there is a toy car with a man in it on a carpet",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "rc _ car",
+            "logit": 0.46,
+            "box": [
+                154.07672119140625,
+                303.1456298828125,
+                597.1107177734375,
+                747.2371826171875
+            ]
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "caption": "there is a dog running on the beach with his mouth open",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "dog7",
+            "logit": 0.92,
+            "box": [
+                219.91900634765625,
+                160.54034423828125,
+                569.9956665039062,
+                736.066650390625
+            ]
+        }
+    ]
+}

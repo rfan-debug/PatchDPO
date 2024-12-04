@@ -1,0 +1,20 @@
+{
+    "caption": "there is a jar of cream sitting in the grass near a tree",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "candle",
+            "logit": 0.7,
+            "box": [
+                333.3885498046875,
+                303.1450500488281,
+                668.7476806640625,
+                644.5281982421875
+            ]
+        }
+    ]
+}

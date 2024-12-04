@@ -1,0 +1,20 @@
+{
+    "caption": "araffy dog sitting on a ledge with its tongue out",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "dog",
+            "logit": 0.93,
+            "box": [
+                90.4671630859375,
+                143.7139892578125,
+                758.330810546875,
+                726.24365234375
+            ]
+        }
+    ]
+}

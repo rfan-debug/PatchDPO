@@ -1,0 +1,20 @@
+{
+    "caption": "there is a pair of shoes that are on the ground",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "colorful _ sneaker",
+            "logit": 0.86,
+            "box": [
+                149.73220825195312,
+                201.24598693847656,
+                683.91552734375,
+                622.9068603515625
+            ]
+        }
+    ]
+}

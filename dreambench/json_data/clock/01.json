@@ -1,0 +1,20 @@
+{
+    "caption": "someone holding a yellow alarm clock in their hand against a white wall",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "clock",
+            "logit": 0.9,
+            "box": [
+                286.6440124511719,
+                284.8294372558594,
+                437.6646423339844,
+                476.9373474121094
+            ]
+        }
+    ]
+}

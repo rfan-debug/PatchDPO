@@ -1,0 +1,20 @@
+{
+    "caption": "there is a teddy bear with a blue hat on it's head",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "bear _ plushie",
+            "logit": 0.48,
+            "box": [
+                138.9414520263672,
+                123.49307250976562,
+                586.4163818359375,
+                724.032958984375
+            ]
+        }
+    ]
+}

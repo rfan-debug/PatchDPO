@@ -1,0 +1,20 @@
+{
+    "caption": "there is a small dog sitting on an orange surface with a green bag",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "dog6",
+            "logit": 0.9,
+            "box": [
+                27.234451293945312,
+                167.78216552734375,
+                493.38079833984375,
+                744.6719360351562
+            ]
+        }
+    ]
+}

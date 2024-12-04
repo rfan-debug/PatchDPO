@@ -1,0 +1,20 @@
+{
+    "caption": "there is a brown teddy bear sitting on a concrete ledge",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "bear _ plushie",
+            "logit": 0.47,
+            "box": [
+                219.40432739257812,
+                169.34042358398438,
+                612.1884765625,
+                635.4407958984375
+            ]
+        }
+    ]
+}

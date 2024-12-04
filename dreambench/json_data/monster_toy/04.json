@@ -1,0 +1,20 @@
+{
+    "caption": "there is a red stuffed animal with a yellow ball in its mouth",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "monster _ toy",
+            "logit": 0.75,
+            "box": [
+                101.69235229492188,
+                131.969970703125,
+                697.9342041015625,
+                681.0479736328125
+            ]
+        }
+    ]
+}

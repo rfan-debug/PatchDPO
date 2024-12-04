@@ -1,0 +1,20 @@
+{
+    "caption": "someone is walking along the water with a pair of sneakers",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "colorful _ sneaker",
+            "logit": 0.87,
+            "box": [
+                99.65005493164062,
+                353.4547119140625,
+                523.3221435546875,
+                568.937255859375
+            ]
+        }
+    ]
+}

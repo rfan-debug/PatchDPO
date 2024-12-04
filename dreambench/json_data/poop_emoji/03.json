@@ -1,0 +1,20 @@
+{
+    "caption": "there is a small toy sitting on a green bench",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "poop _ emoji",
+            "logit": 0.83,
+            "box": [
+                338.64801025390625,
+                374.8551940917969,
+                551.6958618164062,
+                590.6422729492188
+            ]
+        }
+    ]
+}

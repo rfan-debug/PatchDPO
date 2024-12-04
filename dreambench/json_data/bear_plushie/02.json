@@ -1,0 +1,20 @@
+{
+    "caption": "there is a brown teddy bear with a blue bow on its head",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "bear _ plushie",
+            "logit": 0.4,
+            "box": [
+                188.72601318359375,
+                165.39927673339844,
+                604.6356811523438,
+                627.518798828125
+            ]
+        }
+    ]
+}

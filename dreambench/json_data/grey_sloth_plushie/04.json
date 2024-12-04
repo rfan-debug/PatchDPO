@@ -1,0 +1,20 @@
+{
+    "caption": "there is a stuffed sloth sitting on the ground in the street",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "grey _ sloth _ plushie",
+            "logit": 0.61,
+            "box": [
+                168.9002685546875,
+                121.65840148925781,
+                591.2508544921875,
+                624.1396484375
+            ]
+        }
+    ]
+}

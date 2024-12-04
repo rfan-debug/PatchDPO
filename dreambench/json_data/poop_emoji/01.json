@@ -1,0 +1,20 @@
+{
+    "caption": "a close up of a toy poop sitting in the grass",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "poop _ emoji",
+            "logit": 0.83,
+            "box": [
+                226.36790466308594,
+                262.8042297363281,
+                545.7381591796875,
+                624.9659423828125
+            ]
+        }
+    ]
+}

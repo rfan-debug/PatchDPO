@@ -1,0 +1,20 @@
+{
+    "caption": "there is a stuffed husky dog sitting on a green bench",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "wolf _ plushie",
+            "logit": 0.57,
+            "box": [
+                124.55099487304688,
+                259.76318359375,
+                609.955322265625,
+                668.6512451171875
+            ]
+        }
+    ]
+}

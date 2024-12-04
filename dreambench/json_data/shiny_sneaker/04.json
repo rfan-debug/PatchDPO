@@ -1,0 +1,20 @@
+{
+    "caption": "there is a shoe that is sitting on a bench",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "shiny _ sneaker",
+            "logit": 0.86,
+            "box": [
+                195.92552185058594,
+                290.99334716796875,
+                464.353271484375,
+                560.5635375976562
+            ]
+        }
+    ]
+}

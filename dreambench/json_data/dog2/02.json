@@ -1,0 +1,20 @@
+{
+    "caption": "araffe dog laying on the floor looking at the camera",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "dog2",
+            "logit": 0.92,
+            "box": [
+                47.9500732421875,
+                17.390472412109375,
+                757.3245239257812,
+                743.599609375
+            ]
+        }
+    ]
+}

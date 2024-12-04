@@ -1,0 +1,20 @@
+{
+    "caption": "sunglasses with a pink lens on a gray background",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "pink _ sunglasses",
+            "logit": 0.8,
+            "box": [
+                29.81109619140625,
+                199.31105041503906,
+                623.3419189453125,
+                656.3201904296875
+            ]
+        }
+    ]
+}

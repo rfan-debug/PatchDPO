@@ -1,0 +1,20 @@
+{
+    "caption": "there is a dog that is standing on a sidewalk with its tongue out",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "dog",
+            "logit": 0.95,
+            "box": [
+                205.8543701171875,
+                12.883331298828125,
+                768.4322509765625,
+                798.28759765625
+            ]
+        }
+    ]
+}

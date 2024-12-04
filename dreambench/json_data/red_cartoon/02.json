@@ -1,0 +1,20 @@
+{
+    "caption": "cartoon red monster with horns and eyes standing in front of a white background",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "red _ cartoon",
+            "logit": 0.81,
+            "box": [
+                164.4291534423828,
+                209.83224487304688,
+                634.6400146484375,
+                734.764892578125
+            ]
+        }
+    ]
+}

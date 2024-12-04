@@ -1,0 +1,20 @@
+{
+    "caption": "there is a beer glass and a can of beer on a rock",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "can",
+            "logit": 0.34,
+            "box": [
+                379.87786865234375,
+                345.9500732421875,
+                574.2799072265625,
+                699.3121337890625
+            ]
+        }
+    ]
+}

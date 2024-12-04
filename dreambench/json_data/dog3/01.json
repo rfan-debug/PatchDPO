@@ -1,0 +1,20 @@
+{
+    "caption": "there is a white dog sitting on a rocky hill with trees in the background",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "dog3",
+            "logit": 0.92,
+            "box": [
+                57.922454833984375,
+                186.70997619628906,
+                511.5263977050781,
+                632.7234497070312
+            ]
+        }
+    ]
+}

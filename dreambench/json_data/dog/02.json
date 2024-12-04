@@ -1,0 +1,20 @@
+{
+    "caption": "arafed dog sitting on a ledge with a cherry tree in the background",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "dog",
+            "logit": 0.95,
+            "box": [
+                155.61416625976562,
+                153.27981567382812,
+                799.0482177734375,
+                744.4407958984375
+            ]
+        }
+    ]
+}

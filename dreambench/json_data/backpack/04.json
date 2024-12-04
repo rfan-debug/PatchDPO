@@ -1,0 +1,20 @@
+{
+    "caption": "there is a red backpack sitting on a log in the woods",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "backpack",
+            "logit": 0.92,
+            "box": [
+                215.91517639160156,
+                71.86758422851562,
+                525.5589599609375,
+                714.786865234375
+            ]
+        }
+    ]
+}

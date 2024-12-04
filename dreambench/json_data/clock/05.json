@@ -1,0 +1,20 @@
+{
+    "caption": "yellow alarm clock sitting on a white sheet on a bed",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "clock",
+            "logit": 0.91,
+            "box": [
+                291.3720703125,
+                330.5594787597656,
+                572.0263671875,
+                694.27197265625
+            ]
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "caption": "arafly designed can of beer sitting on a rock near a body of water",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "can",
+            "logit": 0.29,
+            "box": [
+                240.25704956054688,
+                130.15872192382812,
+                543.582763671875,
+                678.2071533203125
+            ]
+        }
+    ]
+}

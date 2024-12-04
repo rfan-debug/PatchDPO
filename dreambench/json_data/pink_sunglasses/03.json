@@ -1,0 +1,20 @@
+{
+    "caption": "sunglasses and a book laying on a bed with a white sheet",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "pink _ sunglasses",
+            "logit": 0.81,
+            "box": [
+                112.33113098144531,
+                271.28656005859375,
+                517.3633422851562,
+                537.761962890625
+            ]
+        }
+    ]
+}

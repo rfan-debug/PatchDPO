@@ -1,0 +1,20 @@
+{
+    "caption": "there is a stuffed animal that is sitting on a rock",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "wolf _ plushie",
+            "logit": 0.56,
+            "box": [
+                83.08749389648438,
+                199.00909423828125,
+                591.5281982421875,
+                601.33935546875
+            ]
+        }
+    ]
+}

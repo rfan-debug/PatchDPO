@@ -1,0 +1,31 @@
+{
+    "caption": "there is a stuffed dog that is laying in the grass",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "wolf _ plushie",
+            "logit": 0.52,
+            "box": [
+                140.57852172851562,
+                175.73016357421875,
+                472.3612365722656,
+                549.7591552734375
+            ]
+        },
+        {
+            "value": 2,
+            "label": "wolf _ plushie",
+            "logit": 0.29,
+            "box": [
+                140.53778076171875,
+                175.47122192382812,
+                321.6925048828125,
+                432.9017639160156
+            ]
+        }
+    ]
+}

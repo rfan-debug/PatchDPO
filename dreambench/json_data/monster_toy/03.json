@@ -1,0 +1,20 @@
+{
+    "caption": "araffe sitting on the hood of a car with a yellow ball in its mouth",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "monster _ toy",
+            "logit": 0.75,
+            "box": [
+                278.7069396972656,
+                241.80404663085938,
+                589.2825927734375,
+                603.68359375
+            ]
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "caption": "there is a yellow rubber duck toy on a blue carpet",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "duck _ toy",
+            "logit": 0.62,
+            "box": [
+                197.68649291992188,
+                189.36605834960938,
+                618.0640869140625,
+                661.9322509765625
+            ]
+        }
+    ]
+}

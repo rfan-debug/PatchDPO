@@ -1,0 +1,20 @@
+{
+    "caption": "there is a dog that is sitting on the road with a leash",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "dog8",
+            "logit": 0.92,
+            "box": [
+                290.9509582519531,
+                152.79238891601562,
+                609.7108154296875,
+                688.73828125
+            ]
+        }
+    ]
+}

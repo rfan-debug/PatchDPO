@@ -1,0 +1,20 @@
+{
+    "caption": "there is a dog that is sitting in the middle of a field",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "dog7",
+            "logit": 0.9,
+            "box": [
+                259.88507080078125,
+                209.11508178710938,
+                543.9125366210938,
+                697.449951171875
+            ]
+        }
+    ]
+}

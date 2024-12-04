@@ -1,0 +1,20 @@
+{
+    "caption": "arafed woman with a backpack standing on a hill with clouds in the background",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "backpack",
+            "logit": 0.84,
+            "box": [
+                247.91659545898438,
+                18.797332763671875,
+                607.04736328125,
+                617.978271484375
+            ]
+        }
+    ]
+}

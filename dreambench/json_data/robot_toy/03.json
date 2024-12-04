@@ -1,0 +1,20 @@
+{
+    "caption": "there is a toy robot sitting on a rock in the woods",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "robot _ toy",
+            "logit": 0.69,
+            "box": [
+                192.7768096923828,
+                97.99801635742188,
+                620.1470947265625,
+                606.2852783203125
+            ]
+        }
+    ]
+}

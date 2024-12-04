@@ -1,0 +1,20 @@
+{
+    "caption": "there is a red vase with a silver top on a white surface",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "vase",
+            "logit": 0.95,
+            "box": [
+                301.5951843261719,
+                175.24267578125,
+                462.08856201171875,
+                667.1795043945312
+            ]
+        }
+    ]
+}

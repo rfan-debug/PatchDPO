@@ -1,0 +1,20 @@
+{
+    "caption": "there is a brown dog laying on the ground with its tongue out",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "dog7",
+            "logit": 0.92,
+            "box": [
+                86.04522705078125,
+                108.48226928710938,
+                713.9238891601562,
+                796.414794921875
+            ]
+        }
+    ]
+}

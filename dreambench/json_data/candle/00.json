@@ -1,0 +1,20 @@
+{
+    "caption": "there is a jar of cream sitting on a rock in the park",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "candle",
+            "logit": 0.71,
+            "box": [
+                319.6057434082031,
+                287.5920715332031,
+                474.232177734375,
+                434.8551940917969
+            ]
+        }
+    ]
+}

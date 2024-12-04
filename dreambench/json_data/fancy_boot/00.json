@@ -1,0 +1,20 @@
+{
+    "caption": "a close up of a pair of boots with fringes on them",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "fancy _ boot",
+            "logit": 0.82,
+            "box": [
+                92.79911804199219,
+                97.49581909179688,
+                558.7075805664062,
+                695.77490234375
+            ]
+        }
+    ]
+}

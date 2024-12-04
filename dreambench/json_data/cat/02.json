@@ -1,0 +1,20 @@
+{
+    "caption": "there is a cat that is sitting in the grass",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "cat",
+            "logit": 0.5,
+            "box": [
+                30.173248291015625,
+                60.90850830078125,
+                425.73590087890625,
+                778.7882080078125
+            ]
+        }
+    ]
+}

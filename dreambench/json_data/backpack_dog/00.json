@@ -1,0 +1,20 @@
+{
+    "caption": "a close up of a backpack with a dog face on it",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "backpack _ dog",
+            "logit": 0.71,
+            "box": [
+                243.0559539794922,
+                163.65841674804688,
+                613.6666870117188,
+                633.9044189453125
+            ]
+        }
+    ]
+}

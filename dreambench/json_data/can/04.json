@@ -1,0 +1,20 @@
+{
+    "caption": "there is a can of beer next to a glass of beer",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "can",
+            "logit": 0.35,
+            "box": [
+                253.2870635986328,
+                194.52197265625,
+                543.2677001953125,
+                732.4352416992188
+            ]
+        }
+    ]
+}

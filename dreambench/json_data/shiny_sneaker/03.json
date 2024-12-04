@@ -1,0 +1,20 @@
+{
+    "caption": "a close up of a pair of shoes on a grassy field",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "shiny _ sneaker",
+            "logit": 0.83,
+            "box": [
+                176.8473663330078,
+                237.2042236328125,
+                615.5274047851562,
+                543.2294311523438
+            ]
+        }
+    ]
+}

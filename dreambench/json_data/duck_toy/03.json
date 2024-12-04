@@ -1,0 +1,20 @@
+{
+    "caption": "there is a yellow rubber duck sitting on a rock by the water",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "duck _ toy",
+            "logit": 0.61,
+            "box": [
+                252.36366271972656,
+                322.4514465332031,
+                554.9183349609375,
+                592.01220703125
+            ]
+        }
+    ]
+}

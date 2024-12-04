@@ -1,0 +1,20 @@
+{
+    "caption": "there is a pair of sunglasses and a flower on a bed",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "pink _ sunglasses",
+            "logit": 0.8,
+            "box": [
+                283.71429443359375,
+                452.0024108886719,
+                799.0317993164062,
+                697.7587890625
+            ]
+        }
+    ]
+}

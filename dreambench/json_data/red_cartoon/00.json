@@ -1,0 +1,20 @@
+{
+    "caption": "cartoon red monster with a sad face and a frown on its face",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "red _ cartoon",
+            "logit": 0.82,
+            "box": [
+                220.8960418701172,
+                209.85757446289062,
+                577.007568359375,
+                748.6962890625
+            ]
+        }
+    ]
+}

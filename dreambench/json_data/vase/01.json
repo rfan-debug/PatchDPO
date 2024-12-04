@@ -1,0 +1,20 @@
+{
+    "caption": "there is a red vase with a plant in it on a tray",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "vase",
+            "logit": 0.79,
+            "box": [
+                190.4809112548828,
+                194.36965942382812,
+                364.31573486328125,
+                725.779541015625
+            ]
+        }
+    ]
+}

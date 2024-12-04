@@ -1,0 +1,20 @@
+{
+    "caption": "a close up of a pair of shoes on a rock near a street",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "shiny _ sneaker",
+            "logit": 0.84,
+            "box": [
+                240.13262939453125,
+                234.6372833251953,
+                587.2573852539062,
+                480.319091796875
+            ]
+        }
+    ]
+}

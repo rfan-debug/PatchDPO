@@ -1,0 +1,20 @@
+{
+    "caption": "there is a cat that is laying on a bed with a blanket",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "cat2",
+            "logit": 0.88,
+            "box": [
+                2.63433837890625,
+                84.2894287109375,
+                798.0509033203125,
+                737.6087646484375
+            ]
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "caption": "there is a tea pot and a rose on a plate",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "teapot",
+            "logit": 0.91,
+            "box": [
+                264.6921691894531,
+                86.02565002441406,
+                694.890625,
+                482.37103271484375
+            ]
+        }
+    ]
+}

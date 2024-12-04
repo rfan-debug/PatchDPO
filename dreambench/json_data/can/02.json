@@ -1,0 +1,20 @@
+{
+    "caption": "arafficial can of beer sitting on a frozen surface",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "can",
+            "logit": 0.62,
+            "box": [
+                298.74078369140625,
+                233.71597290039062,
+                486.2022399902344,
+                567.674560546875
+            ]
+        }
+    ]
+}

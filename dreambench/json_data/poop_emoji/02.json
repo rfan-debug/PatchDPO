@@ -1,0 +1,20 @@
+{
+    "caption": "arafed poop sitting in the grass in front of a tree",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "poop _ emoji",
+            "logit": 0.8,
+            "box": [
+                285.1416015625,
+                344.61553955078125,
+                646.5213623046875,
+                720.7254638671875
+            ]
+        }
+    ]
+}

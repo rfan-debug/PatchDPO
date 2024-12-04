@@ -1,0 +1,20 @@
+{
+    "caption": "a close up of a backpack sitting on a rock with mountains in the background",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "backpack",
+            "logit": 0.95,
+            "box": [
+                146.91824340820312,
+                33.082916259765625,
+                735.9298095703125,
+                744.0587158203125
+            ]
+        }
+    ]
+}

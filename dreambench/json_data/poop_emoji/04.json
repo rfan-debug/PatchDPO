@@ -1,0 +1,20 @@
+{
+    "caption": "a close up of a toy poop with googly eyes on a sidewalk",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "poop _ emoji",
+            "logit": 0.83,
+            "box": [
+                233.99118041992188,
+                292.84674072265625,
+                568.9443359375,
+                647.546630859375
+            ]
+        }
+    ]
+}

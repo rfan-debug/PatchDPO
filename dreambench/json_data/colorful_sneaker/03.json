@@ -1,0 +1,20 @@
+{
+    "caption": "there is a pair of shoes sitting on a bench on the grass",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "colorful _ sneaker",
+            "logit": 0.86,
+            "box": [
+                268.73138427734375,
+                350.65283203125,
+                553.0556030273438,
+                631.206298828125
+            ]
+        }
+    ]
+}

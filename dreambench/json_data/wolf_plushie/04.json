@@ -1,0 +1,20 @@
+{
+    "caption": "there is a stuffed husky dog laying on the ground next to a brick wall",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "wolf _ plushie",
+            "logit": 0.57,
+            "box": [
+                55.194580078125,
+                176.95175170898438,
+                711.73583984375,
+                703.3028564453125
+            ]
+        }
+    ]
+}

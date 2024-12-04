@@ -1,0 +1,20 @@
+{
+    "caption": "there is a cat sitting on a table next to a vase of flowers",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "cat2",
+            "logit": 0.64,
+            "box": [
+                203.6653594970703,
+                20.943511962890625,
+                692.8428955078125,
+                780.7314453125
+            ]
+        }
+    ]
+}

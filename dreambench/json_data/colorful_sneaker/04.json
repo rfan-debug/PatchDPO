@@ -1,0 +1,20 @@
+{
+    "caption": "a close up of a pair of sneakers on a sidewalk",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "colorful _ sneaker",
+            "logit": 0.86,
+            "box": [
+                150.482177734375,
+                350.6169738769531,
+                633.245361328125,
+                607.9820556640625
+            ]
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "caption": "there is a red vase with a yellow flower in it",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "vase",
+            "logit": 0.89,
+            "box": [
+                412.8905029296875,
+                24.622467041015625,
+                666.2281494140625,
+                792.3927001953125
+            ]
+        }
+    ]
+}

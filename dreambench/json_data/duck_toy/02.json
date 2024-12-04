@@ -1,0 +1,20 @@
+{
+    "caption": "there is a yellow rubber duck toy sitting on a gray surface",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "duck _ toy",
+            "logit": 0.62,
+            "box": [
+                179.34466552734375,
+                233.12359619140625,
+                583.2691650390625,
+                584.080322265625
+            ]
+        }
+    ]
+}

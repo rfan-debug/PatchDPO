@@ -1,0 +1,20 @@
+{
+    "caption": "there is a robot sitting on a couch with a remote control",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "robot _ toy",
+            "logit": 0.68,
+            "box": [
+                163.73269653320312,
+                77.31231689453125,
+                634.9598388671875,
+                745.5709228515625
+            ]
+        }
+    ]
+}

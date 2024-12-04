@@ -1,0 +1,20 @@
+{
+    "caption": "there is a dog that is laying on a couch",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "dog5",
+            "logit": 0.87,
+            "box": [
+                225.41676330566406,
+                195.7873992919922,
+                728.6097412109375,
+                520.02490234375
+            ]
+        }
+    ]
+}

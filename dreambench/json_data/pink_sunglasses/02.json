@@ -1,0 +1,20 @@
+{
+    "caption": "sunglasses with a white ring on them laying on a white cloth",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "pink _ sunglasses",
+            "logit": 0.76,
+            "box": [
+                15.701690673828125,
+                308.8497009277344,
+                798.2843017578125,
+                797.3731689453125
+            ]
+        }
+    ]
+}

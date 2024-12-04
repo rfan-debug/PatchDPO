@@ -1,0 +1,20 @@
+{
+    "caption": "yellow alarm clock on a white blanket with a yellow blanket",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "clock",
+            "logit": 0.93,
+            "box": [
+                160.25625610351562,
+                78.33990478515625,
+                626.8013916015625,
+                736.9431762695312
+            ]
+        }
+    ]
+}

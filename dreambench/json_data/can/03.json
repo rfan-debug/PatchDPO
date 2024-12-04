@@ -1,0 +1,20 @@
+{
+    "caption": "arafed can of beer sitting on a table in front of a house",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "can",
+            "logit": 0.62,
+            "box": [
+                436.7836608886719,
+                184.55792236328125,
+                611.7598876953125,
+                494.909912109375
+            ]
+        }
+    ]
+}

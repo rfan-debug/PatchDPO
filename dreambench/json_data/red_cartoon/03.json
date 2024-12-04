@@ -1,0 +1,20 @@
+{
+    "caption": "cartoon red bear with arms up and eyes closed",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "red _ cartoon",
+            "logit": 0.82,
+            "box": [
+                160.43798828125,
+                252.19039916992188,
+                639.33984375,
+                716.630615234375
+            ]
+        }
+    ]
+}

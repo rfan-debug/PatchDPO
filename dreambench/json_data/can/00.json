@@ -1,0 +1,20 @@
+{
+    "caption": "arafly designed can of beer sitting on a ledge by a river",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "can",
+            "logit": 0.37,
+            "box": [
+                253.5207977294922,
+                119.19744873046875,
+                551.103271484375,
+                650.0176391601562
+            ]
+        }
+    ]
+}

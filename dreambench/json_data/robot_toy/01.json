@@ -1,0 +1,20 @@
+{
+    "caption": "there is a robot sitting on a wooden bench with a white background",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "robot _ toy",
+            "logit": 0.68,
+            "box": [
+                184.00274658203125,
+                68.995849609375,
+                619.6939697265625,
+                685.4410400390625
+            ]
+        }
+    ]
+}

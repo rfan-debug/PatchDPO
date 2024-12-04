@@ -1,0 +1,20 @@
+{
+    "caption": "there is a stuffed animal that is sitting in the grass",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "grey _ sloth _ plushie",
+            "logit": 0.62,
+            "box": [
+                127.42276000976562,
+                98.35821533203125,
+                721.7850341796875,
+                678.56689453125
+            ]
+        }
+    ]
+}

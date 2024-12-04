@@ -1,0 +1,20 @@
+{
+    "caption": "there is a white dog standing on the ground with a tag",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "dog3",
+            "logit": 0.91,
+            "box": [
+                15.946197509765625,
+                303.8636779785156,
+                798.340576171875,
+                798.064697265625
+            ]
+        }
+    ]
+}

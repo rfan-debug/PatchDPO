@@ -1,0 +1,20 @@
+{
+    "caption": "there is a tea pot and a cup on a table",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "teapot",
+            "logit": 0.95,
+            "box": [
+                163.43289184570312,
+                283.3689880371094,
+                480.4820861816406,
+                514.4953002929688
+            ]
+        }
+    ]
+}

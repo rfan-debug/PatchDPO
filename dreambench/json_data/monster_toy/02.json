@@ -1,0 +1,20 @@
+{
+    "caption": "there is a red stuffed animal sitting on a window sill",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "monster _ toy",
+            "logit": 0.76,
+            "box": [
+                215.9331817626953,
+                173.75950622558594,
+                492.36865234375,
+                657.4942016601562
+            ]
+        }
+    ]
+}

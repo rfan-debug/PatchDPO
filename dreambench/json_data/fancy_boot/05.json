@@ -1,0 +1,20 @@
+{
+    "caption": "a close up of a pair of white boots on a green bench",
+    "mask": [
+        {
+            "value": 0,
+            "label": "background"
+        },
+        {
+            "value": 1,
+            "label": "fancy _ boot",
+            "logit": 0.83,
+            "box": [
+                148.5465087890625,
+                139.07977294921875,
+                550.6786499023438,
+                587.5809326171875
+            ]
+        }
+    ]
+}
