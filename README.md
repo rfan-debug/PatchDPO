@@ -2,14 +2,14 @@
 
 <div align="center">
 
-  <a href="dagger"><img src="https://img.shields.io/static/v1?label=ArXiv&message=2409.17920&color=B31B1B&logo=arxiv"></a> &ensp;
+  <a href="https://arxiv.org/abs/2412.03177"><img src="https://img.shields.io/static/v1?label=ArXiv&message=2412.03177&color=B31B1B&logo=arxiv"></a> &ensp;
   <a href="https://huggingface.co/hqhQAQ/PatchDPO/tree/main"><img src="https://img.shields.io/static/v1?label=Model Weights&message=HuggingFace&color=yellow"></a> &ensp;
 
 </div>
 
 ### Overview
 
-This is the official implementation of paper "PatchDPO: Patch-level DPO for Finetuning-free Personalized Image Generation" [[arXiv](dagger)], which achieves **state-of-the-art** performance on personalized image generation, with **only 4 hours** of training time on 8 GPUs, as shown in Table 1 & 2.
+This is the official implementation of paper "PatchDPO: Patch-level DPO for Finetuning-free Personalized Image Generation" [[arXiv](https://arxiv.org/abs/2412.03177)], which achieves **state-of-the-art** performance on personalized image generation, with **only 4 hours** of training time on 8 GPUs, as shown in Table 1 & 2.
 
 ### Introduction
 
@@ -23,7 +23,7 @@ With PatchDPO, our model achieves **state-of-the-art** performance on personaliz
 
 ### 🔥🔥🔥 News!!
 
-- 📰 Our paper is available at [arXiv](dagger).
+- 📰 Our paper is available at [arXiv](https://arxiv.org/abs/2412.03177).
 - 🤗 Our model weights are available at [Hugging Face](https://huggingface.co/hqhQAQ/PatchDPO/tree/main).
 - 🚀 Training code is available here.
 - 🚀 Inference code is available here.
@@ -84,7 +84,7 @@ setuptools==69.5.1
 
 ### Dataset
 
-* **Train dataset.** The release of training dataset is in preparation.
+* **Training dataset.** The release of training dataset is in preparation.
 
 * **Test dataset.** We evaluate our model on the famous **DreamBench**.
 
