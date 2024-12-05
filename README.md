@@ -11,6 +11,8 @@
 
 This is the official implementation of paper "PatchDPO: Patch-level DPO for Finetuning-free Personalized Image Generation" [[arXiv](https://arxiv.org/abs/2412.03177)], which achieves **state-of-the-art** performance on personalized image generation, with **only 4 hours** of training time on 8 GPUs, as shown in Table 1 & 2.
 
+⭐⭐~If you find the resources of this project (e.g., dataset, model weights, training code) helpful, please kindly leave a star here😊.
+
 ### Introduction
 
 This work proposes an additional training stage for personalized generation models using DPO (*i.e.*, direct preference optimization), achieving a significant performance improvement.
