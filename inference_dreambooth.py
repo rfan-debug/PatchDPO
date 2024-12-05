@@ -121,6 +121,7 @@ for step, batch in enumerate(dataloader):
         for idx, image in enumerate(cur_generated_images):
             image.save(os.path.join(entity_dir, '{}.png'.format(cur_prompt)))
 
+accelerator.wait_for_everyone()
 if accelerator.is_main_process:
     clipt_score, clipi_score, dino_score = evaluate_scores(output_dir, args.data_root, args.is_kosmosg)
     save_score_dict = {
