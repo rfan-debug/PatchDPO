@@ -2,7 +2,6 @@ import os
 from typing import List
 
 import torch
-from diffusers import StableDiffusionPipeline
 from diffusers.pipelines.controlnet import MultiControlNetModel
 from PIL import Image
 from safetensors import safe_open
