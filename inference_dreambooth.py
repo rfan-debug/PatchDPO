@@ -62,7 +62,7 @@ output_dir = args.output_dir
 ip_ckpt = args.ip_ckpt
 
 accelerator = Accelerator()
-device = "cuda"
+device = "mps"
 resolution = 512
 batch_size = 2
 num_tokens = 16
