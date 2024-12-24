@@ -1,13 +1,11 @@
 import os
-import cv2
+
 import json
 import torch
 import argparse
-import numpy as np
-from PIL import Image
 from diffusers import StableDiffusionXLPipeline
-from ip_adapter import IPAdapterXL, IPAdapterPlusXL
-from transformers import CLIPTextModel, CLIPTokenizer, CLIPVisionModelWithProjection, CLIPTextModelWithProjection
+from ip_adapter import IPAdapterPlusXL
+from transformers import CLIPTokenizer
 from data.dreambooth_dataset import DreamboothDataset
 from data.dreambooth_dataset_kosmosg import DreamboothDatasetKosmosg
 from accelerate import Accelerator

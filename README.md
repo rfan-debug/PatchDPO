@@ -161,6 +161,19 @@ Note that `/PATH/TO/model.bin` is the path of the trained model to be evaluated.
         --is_kosmosg False
     ```
 
+* Infenrence using the MPS backend
+
+   ```
+       accelerate launch inference_dreambooth.py \
+        --base_model_path /PATH/TO/RealVisXL_V1.0/ \
+        --image_encoder_path /PATH/TO/IP-Adapter/models/image_encoder/ \
+        --ip_ckpt /PATH/TO/PatchDPO/model.bin \
+        --data_root dreambench \
+        --output_dir output/exp1_eval/ \
+        --scale 0.78 \
+        --is_kosmosg False
+   ```
+
 * Inference using the **Kosmos-G setting** using 2 GPUs:
 
     ```
