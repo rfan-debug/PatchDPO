@@ -50,6 +50,7 @@ def parse_args():
     parser.add_argument("--output_dir", type=str)
     parser.add_argument("--scale", type=float, default=0.6)
     parser.add_argument("--is_kosmosg", type=str2bool, default=False)
+    parser.add_argument("--device", type=str, default="cuda")
     return parser.parse_args()
 
 
@@ -61,7 +62,7 @@ def run_main(args):
     ip_ckpt = args.ip_ckpt
 
     accelerator = Accelerator()
-    device = "mps"
+    device = args.device
     resolution = 512
     batch_size = 1
     num_tokens = 16

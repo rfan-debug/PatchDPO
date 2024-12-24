@@ -371,7 +371,7 @@ class IPAdapterPlusXL(IPAdapter):
         #     torch.zeros_like(clip_image), output_hidden_states=True
         # ).hidden_states[-2]
         uncond_clip_image_embeds = self.image_encoder(
-            torch.zeros(num_prompts, 3, 224, 224).type(torch.float16).cuda(), output_hidden_states=True
+            torch.zeros(num_prompts, 3, 224, 224).type(torch.float16).to(self.device), output_hidden_states=True
         ).hidden_states[-2]
         uncond_image_prompt_embeds = self.image_proj_model(uncond_clip_image_embeds)
         return image_prompt_embeds, uncond_image_prompt_embeds

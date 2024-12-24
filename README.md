@@ -171,7 +171,8 @@ Note that `/PATH/TO/model.bin` is the path of the trained model to be evaluated.
         --data_root dreambench \
         --output_dir output/exp1_eval/ \
         --scale 0.78 \
-        --is_kosmosg False
+        --is_kosmosg False \
+        --device mps
    ```
 
 * Inference using the **Kosmos-G setting** using 2 GPUs:
