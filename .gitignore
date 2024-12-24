@@ -173,3 +173,4 @@ cython_debug/
 # Raw dataset
 raw_data/
 models/
+output/

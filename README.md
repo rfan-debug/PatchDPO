@@ -165,9 +165,9 @@ Note that `/PATH/TO/model.bin` is the path of the trained model to be evaluated.
 
    ```
        accelerate launch inference_dreambooth.py \
-        --base_model_path /PATH/TO/RealVisXL_V1.0/ \
-        --image_encoder_path /PATH/TO/IP-Adapter/models/image_encoder/ \
-        --ip_ckpt /PATH/TO/PatchDPO/model.bin \
+        --base_model_path ./models/RealVisXL_V1.0.safetensors \
+        --image_encoder_path ./models/sdxl_image_encoder.safetensors \
+        --ip_ckpt ./models/pdpo_model.bin \
         --data_root dreambench \
         --output_dir output/exp1_eval/ \
         --scale 0.78 \
